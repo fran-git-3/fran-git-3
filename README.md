@@ -36,8 +36,9 @@ Soy un desarrollador apasionado por crear aplicaciones web y multiplataforma.
 ¡Puedes encontrarme aquí!
 
 - [GitHub](https://github.com/fran-git-3)  
-- [Correo Electrónico](franrego333@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/francisco-rego-prieto/)  
+- Correo Electrónico: franrego333@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/francisco-rego-prieto/)
+- Teléfono: 648723311  
 
 ---
 
