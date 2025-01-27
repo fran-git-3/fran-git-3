@@ -32,10 +32,13 @@ Soy un desarrollador Full Stack apasionado por crear aplicaciones web y multipla
 
 
 - **[GifHub]([https://github.com/tu-usuario/gifhub](https://fran-git-3.github.io/GifHub/))**
+  
   https://github.com/tu-usuario/gifhub](https://fran-git-3.github.io/GifHub/)
+  
   Una aplicación en Angular para buscar y organizar GIFs.
 
 - **Constante Aprendizaje**
+  
   A menudo subo ejemplos de mis cursos como https://github.com/fran-git-3/cart-app.
   
 ---
